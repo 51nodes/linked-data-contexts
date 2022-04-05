@@ -2,6 +2,9 @@
   "@context": {
     "@version": 1.1,
     "@protected": true,
+    "name": "http://schema.org/name",
+    "description": "http://schema.org/description",
+    "identifier": "http://schema.org/identifier",
     "TestType": {
       "@id": "https://51nodes.github.io/linked-data-contexts/test#TestType",
       "@context": {
@@ -9,8 +12,7 @@
         "@protected": true,
         "id": "@id",
         "type": "@type",
-        "schema": "http://schema.org/",
-        "familyName": "schema:name"
+        "familyName": "http://schema.org/name"
       }
     }
   }
