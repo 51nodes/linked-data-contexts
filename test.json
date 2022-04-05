@@ -2,12 +2,14 @@
   "@context": {
     "@version": 1.1,
     "TestType": {
-      "@id": "https://51nodes.github.io/linked-data-contexts/Test.json#TestType",
+      "@id": "https://51nodes.github.io/linked-data-contexts/test#TestType",
       "@context": {
         "@version": 1.1,
         "id": "@id",
         "type": "@type",
-        "name": "http://schema.org/name"
+        "name": {
+          "@id": "http://schema.org/name"
+        }
       }
     }
   }
