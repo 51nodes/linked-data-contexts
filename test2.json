@@ -1,5 +1,7 @@
 {
   "@context": {
+    "@version": 1.1,
+    "@protected": true,
     "id": "@id",
     "type": "@type",
     "name": "https://schema.org/name",
@@ -8,6 +10,8 @@
     "TestCred101": {
       "@id": "https://raw.githubusercontent.com/51nodes/linked-data-contexts/main/test2.json#TestCred101",
       "@context": {
+        "@version": 1.1,
+        "@protected": true,
         "id": "@id",
         "@type": "@type",
         "test1": {
