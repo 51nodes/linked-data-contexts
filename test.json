@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "@protected": true,
+    "TestType": {
+      "@id": "https://github.com/51nodes/linked-data-contexts/new/main/test#TestType",
+      "@context": {
+        "@version": 1.1,
+        "@protected": true,
+        "id": "@id",
+        "type": "@type",
+        "schema": "http://schema.org/",
+        "familyName": "schema:name"
+      }
+    }
+  }
+}
