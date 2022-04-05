@@ -7,7 +7,7 @@
         "@version": 1.1,
         "id": "@id",
         "type": "@type",
-        "familyName": "http://schema.org/name"
+        "name": "http://schema.org/name"
       }
     }
   }
