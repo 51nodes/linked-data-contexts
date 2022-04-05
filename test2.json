@@ -9,7 +9,7 @@
         "@protected": true,
 
         "id": "@id",
-        "@type": "@type",
+        "type": "@type",
 
         "test1": "https://schema.org/identifier",
         "test2": "https://schema.org/name",
