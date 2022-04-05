@@ -15,11 +15,13 @@
         "@protected": true,
 
         "id": "@id",
+        "type": "@type",
 
         "description": "http://schema.org/description",
         "name": "http://schema.org/name",
         "identifier": "http://schema.org/identifier",
         "image": {"@id": "http://schema.org/image", "@type": "@id"}
+      }
       }
     },
 
