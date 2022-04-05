@@ -9,10 +9,8 @@
         "@protected": true,
 
         "id": "@id",
-        "type": "@type",
 
-        "teste": "http://schema.org/name",
-        "bpb": "http://schema.org/name"
+        "bpn": "http://schema.org/name"
       }
     }
   }
