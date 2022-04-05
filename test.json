@@ -11,7 +11,7 @@
         "id": "@id",
         "type": "@type",
         "teste": "http://schema.org/name",
-        "identifier": "http://schema.org/identifier"
+        "bpb": "http://schema.org/identifier"
       }
     }
   }
