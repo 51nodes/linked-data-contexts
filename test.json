@@ -7,7 +7,9 @@
       "@context": {
         "@version": 1.1,
         "@protected": true,
+
         "id": "@id",
+
         "description": "http://schema.org/description",
         "name": "http://schema.org/name",
         "identifier": "http://schema.org/identifier",
