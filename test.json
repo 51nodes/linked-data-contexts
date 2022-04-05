@@ -2,14 +2,14 @@
   "@context": {
     "@version": 1.1,
     "@protected": true,
-    "TestCredT": {
-      "@id": "https://raw.githubusercontent.com/51nodes/linked-data-contexts/main/test.json#TestCredT",
+    "TestCredX": {
+      "@id": "https://raw.githubusercontent.com/51nodes/linked-data-contexts/main/test.json#TestCredX",
       "@context": {
         "@version": 1.1,
         "@protected": true,
 
         "id": "@id",
-        "type": "@type",
+        "@type": "@id",
 
         "bpn": "http://schema.org/name"
       }
