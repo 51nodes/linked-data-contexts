@@ -4,7 +4,6 @@
       "@id": "https://51nodes.github.io/linked-data-contexts/test.json#TestType",
       "@context": {
         "id": "@id",
-        "type": "@type",
         "name": {
           "@id": "http://schema.org/name"
         }
