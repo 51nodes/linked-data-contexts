@@ -10,6 +10,7 @@
 
         "id": "@id",
         "type": "@type",
+
         "teste": "http://schema.org/name",
         "bpb": "http://schema.org/identifier"
       }
