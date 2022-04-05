@@ -9,6 +9,7 @@
       "@id": "https://raw.githubusercontent.com/51nodes/linked-data-contexts/main/test2.json#TestCred101",
       "@context": {
         "id": "@id",
+        "@type": "@type",
         "test1": {
           "@id": "https://schema.org/identifier" },
         "test2": {
