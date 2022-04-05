@@ -9,7 +9,7 @@
     "image": {"@id": "http://schema.org/image", "@type": "@id"},
 
     "PermanentResidentCard": {
-      "@id": "https://w3id.org/citizenship#PermanentResidentCard",
+      "@id": "https://raw.githubusercontent.com/51nodes/linked-data-contexts/main/test.json#PermanentResidentCard",
       "@context": {
         "@version": 1.1,
         "@protected": true,
