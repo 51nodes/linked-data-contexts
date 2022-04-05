@@ -22,7 +22,6 @@
         "identifier": "http://schema.org/identifier",
         "image": {"@id": "http://schema.org/image", "@type": "@id"}
       }
-      }
     },
 
     "PermanentResident": {
@@ -48,6 +47,8 @@
         "lprNumber": "ctzn:lprNumber",
         "residentSince": {"@id": "ctzn:residentSince", "@type": "xsd:dateTime"}
       }
-    }
+    },
+
+    "Person": "http://schema.org/Person"
   }
 }
