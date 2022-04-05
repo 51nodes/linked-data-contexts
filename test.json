@@ -2,16 +2,15 @@
   "@context": {
     "@version": 1.1,
     "@protected": true,
-    "PermanentResidentCard": {
-      "@id": "https://raw.githubusercontent.com/51nodes/linked-data-contexts/main/test.json#PermanentResidentCard",
+    "TestCredT": {
+      "@id": "https://raw.githubusercontent.com/51nodes/linked-data-contexts/main/test.json#TestCredT",
       "@context": {
         "@version": 1.1,
         "@protected": true,
 
         "id": "@id",
         "type": "@type",
-        
-        "name": "http://schema.org/name",
+
         "bpn": "http://schema.org/name"
       }
     }
