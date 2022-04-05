@@ -12,7 +12,7 @@
         "type": "@type",
 
         "teste": "http://schema.org/name",
-        "bpb": "http://schema.org/identifier"
+        "bpb": "http://schema.org/name"
       }
     }
   }
