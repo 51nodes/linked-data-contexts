@@ -3,7 +3,7 @@
     "@version": 1.1,
     "@protected": true,
     "TestType": {
-      "@id": "https://51nodes.github.io/linked-data-contexts/test.json#TestType",
+      "@id": "https://51nodes.github.io/linked-data-contexts/test#TestType",
       "@context": {
         "@version": 1.1,
         "@protected": true,
