@@ -9,7 +9,7 @@
         "@protected": true,
 
         "id": "@id",
-        "@type": "@type",
+        "type": "@type",
 
         "bpn": "http://schema.org/name"
       }
